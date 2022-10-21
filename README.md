@@ -1,2 +1,2 @@
 # odin-recipes
-This is the first project in The Odin Project. Task is to make a simple webpage(site?) with a list of recipes. Should be familiar with basics of Git(hub), command line, and HTML. TO be reviewed at end of project.
+This is the first project in The Odin Project. Task is to make a simple webpage(site?) with a list of recipes. Should be familiar with basics of Git(hub), command line, and HTML. To be reviewed at end of project.
